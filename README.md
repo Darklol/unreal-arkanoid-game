@@ -1,1 +1,1 @@
-*ITMO University GameDev group project: Arkanoid game*
+#ITMO University GameDev group project: Arkanoid game#
